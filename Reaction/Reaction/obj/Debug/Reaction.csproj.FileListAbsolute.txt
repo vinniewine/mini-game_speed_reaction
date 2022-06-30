@@ -1,0 +1,11 @@
+C:\Users\workd\Documents\project\mini-game_speed_reaction\Reaction\Reaction\bin\Debug\Reaction.exe.config
+C:\Users\workd\Documents\project\mini-game_speed_reaction\Reaction\Reaction\bin\Debug\Reaction.exe
+C:\Users\workd\Documents\project\mini-game_speed_reaction\Reaction\Reaction\bin\Debug\Reaction.pdb
+C:\Users\workd\Documents\project\mini-game_speed_reaction\Reaction\Reaction\obj\Debug\Reaction.csproj.AssemblyReference.cache
+C:\Users\workd\Documents\project\mini-game_speed_reaction\Reaction\Reaction\obj\Debug\Reaction.csproj.SuggestedBindingRedirects.cache
+C:\Users\workd\Documents\project\mini-game_speed_reaction\Reaction\Reaction\obj\Debug\Reaction.Properties.Resources.resources
+C:\Users\workd\Documents\project\mini-game_speed_reaction\Reaction\Reaction\obj\Debug\Reaction.csproj.GenerateResource.cache
+C:\Users\workd\Documents\project\mini-game_speed_reaction\Reaction\Reaction\obj\Debug\Reaction.csproj.CoreCompileInputs.cache
+C:\Users\workd\Documents\project\mini-game_speed_reaction\Reaction\Reaction\obj\Debug\Reaction.exe
+C:\Users\workd\Documents\project\mini-game_speed_reaction\Reaction\Reaction\obj\Debug\Reaction.pdb
+C:\Users\workd\Documents\project\mini-game_speed_reaction\Reaction\Reaction\obj\Debug\Reaction.FormReaction.resources
